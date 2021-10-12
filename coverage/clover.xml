@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1633732502437" clover="3.2.0">
+  <project timestamp="1633732502437" name="All files">
+    <metrics statements="34" coveredstatements="30" conditionals="8" coveredconditionals="4" methods="12" coveredmethods="11" elements="54" coveredelements="45" complexity="0" loc="34" ncloc="34" packages="2" files="6" classes="6"/>
+    <package name="src">
+      <metrics statements="22" coveredstatements="19" conditionals="4" coveredconditionals="2" methods="8" coveredmethods="7"/>
+      <file name="fetch-data.js" path="/Users/amigoscode/Desktop/javascript-testing/src/fetch-data.js">
+        <metrics statements="8" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="4"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="4" count="1" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="7" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+      </file>
+      <file name="greet-user.js" path="/Users/amigoscode/Desktop/javascript-testing/src/greet-user.js">
+        <metrics statements="8" coveredstatements="6" conditionals="4" coveredconditionals="2" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="10" count="1" type="cond" truecount="1" falsecount="1"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="13" count="0" type="stmt"/>
+      </file>
+      <file name="jokes-service.js" path="/Users/amigoscode/Desktop/javascript-testing/src/jokes-service.js">
+        <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="2" type="stmt"/>
+        <line num="7" count="2" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.shared">
+      <metrics statements="12" coveredstatements="11" conditionals="4" coveredconditionals="2" methods="4" coveredmethods="4"/>
+      <file name="email-validator.js" path="/Users/amigoscode/Desktop/javascript-testing/src/shared/email-validator.js">
+        <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="11" type="stmt"/>
+        <line num="3" count="11" type="stmt"/>
+      </file>
+      <file name="filter-person.js" path="/Users/amigoscode/Desktop/javascript-testing/src/shared/filter-person.js">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="10" type="stmt"/>
+      </file>
+      <file name="number-of-occurrences.js" path="/Users/amigoscode/Desktop/javascript-testing/src/shared/number-of-occurrences.js">
+        <metrics statements="7" coveredstatements="6" conditionals="4" coveredconditionals="2" methods="1" coveredmethods="1"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="2" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="7" count="0" type="cond" truecount="0" falsecount="2"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
